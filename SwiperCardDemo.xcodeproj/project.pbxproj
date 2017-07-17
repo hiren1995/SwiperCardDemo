@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					2DC4F4EE1F149DA500844BC1 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = C84VBR372G;
 						ProvisioningStyle = Automatic;
 					};
 					2DC4F5021F149DA600844BC1 = {
@@ -412,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = C84VBR372G;
 				INFOPLIST_FILE = SwiperCardDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.barodacoders.SwiperCardDemo;
@@ -424,6 +426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = C84VBR372G;
 				INFOPLIST_FILE = SwiperCardDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.barodacoders.SwiperCardDemo;
@@ -505,6 +508,7 @@
 				2DC4F5191F149DA600844BC1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2DC4F51A1F149DA600844BC1 /* Build configuration list for PBXNativeTarget "SwiperCardDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +517,7 @@
 				2DC4F51C1F149DA600844BC1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2DC4F51D1F149DA600844BC1 /* Build configuration list for PBXNativeTarget "SwiperCardDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +526,7 @@
 				2DC4F51F1F149DA600844BC1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
